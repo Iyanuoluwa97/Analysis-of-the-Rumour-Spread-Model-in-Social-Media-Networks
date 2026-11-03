@@ -61,7 +61,7 @@ The Maple implementation can be opened and executed using Maple. The source code
 
 The codes are provided to support the computational study of the delayed SIHR rumour-spreading model and allow interested researchers to explore its numerical behaviour.
 
-The associated research manuscript is currently unpublished. The manuscript itself is therefore not included in this repository.
+The associated research manuscript is accepted and awaiting publishing; so it is currently unpublished. The manuscript itself is therefore not included in this repository.
 
 ## Author and Acknowledgement
 

@@ -1,8 +1,6 @@
 # Analysis-of-a-delayed-SIHR-rumour-spread-model
 This repository contains the numerical implementation and analysis of a delayed SIHR rumour-spreading model in social media networks. It includes Python and Maple codes, numerical simulations, parameter sensitivity analysis, and comparisons of the Differential Transform Method and fourth-order Runge–Kutta method.
 
-# Analysis of the Rumour Spread Model in Social Media Networks
-
 ## About the Project
 
 This repository contains the numerical implementation of a delayed SIHR (Ignorant–Spreader–Hibernator–Stifler) model developed to investigate rumour spreading and reactivation in social media networks.

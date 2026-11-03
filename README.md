@@ -35,9 +35,9 @@ The numerical solutions obtained using both methods are compared to examine thei
 
 The computational experiments investigate the influence of key model parameters, particularly:
 
-- Delayed remembering rate (\(\zeta\)).
-- External reactivation strength (\(\gamma\)).
-- Delay duration (\(\tau\)).
+- Delayed remembering rate (\zeta\).
+- External reactivation strength (\gamma(t)\).
+- Delay duration (\tau\).
 
 The simulations examine changes in the compartment populations and the persistence of rumour spreading under different parameter settings.
 
